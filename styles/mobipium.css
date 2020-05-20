@@ -88,7 +88,7 @@
 }
 
 .main-banner:hover h1 {
-  transform: scale(1.2);
+  transform: scale(1.15);
   transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
 }
 
@@ -106,7 +106,7 @@
 
 .main-banner img {
   width: 120px;
-  opacity: .9;
+  opacity: .95;
 }
 
 
